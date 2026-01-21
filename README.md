@@ -166,6 +166,8 @@ Dans le workflow n8n, modifiez le message système :
 2. Glissez-déposez `chatbot_interface.html`
 3. Votre chatbot est en ligne ! 🎉
 
+https://chatbot-ia-avec-n8n-groq.netlify.app/
+
 ### Option 2 : Vercel
 
 ```bash
